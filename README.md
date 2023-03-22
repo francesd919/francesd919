@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @francesd919
-- 👀 I’m interested in ethical hacking
-- 🌱 I’m currently learning to be a pentester
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... francesd919
 
