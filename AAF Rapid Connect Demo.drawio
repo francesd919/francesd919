@@ -1,50 +1,53 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0" version="26.2.12">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0" version="26.2.13">
   <diagram name="Page-1" id="TfLnYmUN3K0lK1PbvgGd">
     <mxGraphModel dx="1428" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="KD7eDB2GPrN01x65ex3s-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KD7eDB2GPrN01x65ex3s-1" target="KD7eDB2GPrN01x65ex3s-2">
+        <mxCell id="KD7eDB2GPrN01x65ex3s-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KD7eDB2GPrN01x65ex3s-1" target="KD7eDB2GPrN01x65ex3s-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KD7eDB2GPrN01x65ex3s-1" value="Login button" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="207.5" width="60" height="40" as="geometry" />
+        <mxCell id="KD7eDB2GPrN01x65ex3s-1" value="Login button" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="50" y="207.5" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="KD7eDB2GPrN01x65ex3s-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KD7eDB2GPrN01x65ex3s-2" target="KD7eDB2GPrN01x65ex3s-6">
+        <mxCell id="KD7eDB2GPrN01x65ex3s-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KD7eDB2GPrN01x65ex3s-2" target="KD7eDB2GPrN01x65ex3s-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KD7eDB2GPrN01x65ex3s-2" value="Redirects to IdP" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;rounded=0;" vertex="1" parent="1">
+        <mxCell id="KD7eDB2GPrN01x65ex3s-2" value="Redirects to IdP" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="190" y="197.5" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KD7eDB2GPrN01x65ex3s-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KD7eDB2GPrN01x65ex3s-6" target="KD7eDB2GPrN01x65ex3s-8">
+        <mxCell id="KD7eDB2GPrN01x65ex3s-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KD7eDB2GPrN01x65ex3s-6" target="KD7eDB2GPrN01x65ex3s-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KD7eDB2GPrN01x65ex3s-6" value="IdP authenticates user" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="197.5" width="120" height="60" as="geometry" />
+        <mxCell id="KD7eDB2GPrN01x65ex3s-6" value="IdP authenticates user" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="340" y="197.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KD7eDB2GPrN01x65ex3s-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KD7eDB2GPrN01x65ex3s-8" target="KD7eDB2GPrN01x65ex3s-10">
+        <mxCell id="KD7eDB2GPrN01x65ex3s-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KD7eDB2GPrN01x65ex3s-8" target="KD7eDB2GPrN01x65ex3s-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KD7eDB2GPrN01x65ex3s-8" value="&lt;div&gt;IdP issues assertion&lt;/div&gt;" style="triangle;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="KD7eDB2GPrN01x65ex3s-8" value="&lt;div&gt;IdP issues assertion&lt;/div&gt;" style="triangle;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="540" y="172.5" width="90" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="KD7eDB2GPrN01x65ex3s-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KD7eDB2GPrN01x65ex3s-10" target="KD7eDB2GPrN01x65ex3s-19">
+        <mxCell id="KD7eDB2GPrN01x65ex3s-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KD7eDB2GPrN01x65ex3s-10" target="KD7eDB2GPrN01x65ex3s-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KD7eDB2GPrN01x65ex3s-10" value="Converts assetion" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="KD7eDB2GPrN01x65ex3s-10" value="Converts assetion" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="690" y="187.5" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="KD7eDB2GPrN01x65ex3s-14" value="&lt;div&gt;User clicks on&amp;nbsp;&lt;/div&gt;&lt;div&gt;Login button&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="KD7eDB2GPrN01x65ex3s-14" value="&lt;div&gt;User clicks on&amp;nbsp;&lt;/div&gt;&lt;div&gt;Login button&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="40" y="257.5" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="KD7eDB2GPrN01x65ex3s-15" value="&lt;div&gt;Rapid Connect&amp;nbsp;&lt;/div&gt;&lt;div&gt;redirects&lt;/div&gt;&lt;div&gt;&amp;nbsp;user to IdP&lt;/div&gt;&lt;div&gt;&amp;nbsp;(AAF Virtual Home)&lt;/div&gt;&lt;div&gt;&amp;nbsp;for federated&amp;nbsp;&lt;/div&gt;&lt;div&gt;authentication/ SSO&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="165" y="252.5" width="130" height="100" as="geometry" />
+        <mxCell id="KD7eDB2GPrN01x65ex3s-15" value="&lt;div&gt;User is redirected to IdP&lt;/div&gt;&lt;div&gt;&amp;nbsp;(AAF Rapid Connect)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="155" y="283.5" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="KD7eDB2GPrN01x65ex3s-18" value="&lt;div&gt;Rapid Connect&lt;/div&gt;&lt;div&gt;&amp;nbsp;converts assertion&amp;nbsp;&lt;/div&gt;&lt;div&gt;into JWTs&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="KD7eDB2GPrN01x65ex3s-18" value="&lt;div&gt;Rapid Connect&lt;/div&gt;&lt;div&gt;&amp;nbsp;converts assertion&amp;nbsp;&lt;/div&gt;&lt;div&gt;into JWTs&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="660" y="112.5" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KD7eDB2GPrN01x65ex3s-19" value="SP (my-app) validates JWT token and displays user info" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="KD7eDB2GPrN01x65ex3s-19" value="SP (my-app) validates JWT token and displays user info" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="670" y="347.5" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1Ek8Go4A1q_8uLvQjj4T-1" value="my-app" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="50" y="167.5" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
